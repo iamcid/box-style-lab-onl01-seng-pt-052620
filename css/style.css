@@ -73,8 +73,8 @@ h4.indifferent {
 h4.indifferent:hover{
   background: linear-gradient(
     to right,
-    #770,
     #aa0,
+    #770,
   );
 }
 
@@ -95,8 +95,8 @@ h4.dubious {
 h4.dubious:hover {
   background: linear-gradient(
     to right,
-    #700,
     #a00,
+    #700,
   );
 }
 
